@@ -52,16 +52,7 @@ Features:
 - Winner & draw detection
 - Input validation
 
-## Features
-- 3x3 Tic Tac Toe gameplay
-- Multiple game versions
-- AI-based opponents
-- Smart move generation
-- Input validation
-- Win/Lose/Draw conditions
-- Console-based interface
-
-## Technologies Used
+## Concepts Used
 - Java
 - Arrays
 - Recursion
