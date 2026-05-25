@@ -8,7 +8,7 @@ A Java console-based game where the player tries to guess a randomly generated n
 - Limited attempts system
 - Replay option
 
-## Technologies Used
+## Concepts Used
 - Java
 - Scanner Class
 - Loops & Conditional Statements
