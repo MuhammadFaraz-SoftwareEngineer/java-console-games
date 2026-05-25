@@ -19,4 +19,8 @@ This Java program is a console-based 3×3 Tic-Tac-Toe game for two players, wher
 - Methods and Console-Based Interface
 
 ## Developer
+<<<<<<< HEAD
 Muhammad Faraz Khan
+=======
+Muhammad Faraz Khan
+>>>>>>> c381f5b1a7ef277668676cd21fe9cc9707829dc1
