@@ -25,7 +25,7 @@ Built using Java built-in utilities:
 - Limited attempts system
 - Win/Lose conditions
 
-## Technologies Used
+## Concepts Used
 - Java
 - Arrays
 - ArrayList
